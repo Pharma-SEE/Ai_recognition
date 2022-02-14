@@ -1,0 +1,26 @@
+<annotation>
+	<folder>real_med_img</folder>
+	<filename>3.jpeg</filename>
+	<path>/Users/kyoungwhanmheen/Desktop/환_한양대학교/2학년/인응&amp;소웨공/teamproject_PharamaSEE/real_med_img/3.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rec_drug</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>997</xmin>
+			<ymin>1099</ymin>
+			<xmax>1983</xmax>
+			<ymax>1590</ymax>
+		</bndbox>
+	</object>
+</annotation>
