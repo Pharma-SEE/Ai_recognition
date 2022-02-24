@@ -1,5 +1,7 @@
 # Object Detection for PharmaSEE
-Code for training and object detection model in Tensorflow that identifies 100 classes of pills. We utilized the EfficientDet architecture from Tensorflow Hub and used the TF Object Detetion API for training. The inference results can be found [here](https://github.com/Pharma-SEE/Ai_recognition/blob/main/object_detection.ipynb).
+Code for training and object detection model in Tensorflow that identifies 100 classes of pills. We utilized the EfficientDet architecture from Tensorflow Hub and used the TF Object Detetion API for training. The inference results can be found [here](https://github.com/Pharma-SEE/Ai_recognition/blob/main/object_detection.ipynb). 
+
+Details can be found on our project [website](https://sites.google.com/view/pharma-see-hyu/object-detetion-w-tf?authuser=0).
 
 ## Inference Result Example
 <img src='https://user-images.githubusercontent.com/58558382/155475736-c7767d67-d111-4bc0-96c3-cbd6ce8b79d6.png' height=500>
